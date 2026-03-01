@@ -34,13 +34,14 @@ else
 target_libc=.
 endif
 
-INDEX = cores/$(target_libc)/latest/.index-extended
+CORES_TARGET_DIR ?= cores/$(target_libc)/latest
+INDEX ?= $(CORES_TARGET_DIR)/.index-extended
 
 print_info = printf "\033[34m $1\033[0m\n"
 print_error = printf "\033[31m $1\033[0m\n"
 
 default: build
-	@mkdir -p cores/$(target_libc)/latest
+	@mkdir -p $(CORES_TARGET_DIR)
 
 patch-super:
 	@if ! test -f $(BUILD_SUPER_DIR)/libretro-build.sh; then \
@@ -105,7 +106,7 @@ index:
 
 index-rebuild:
 	@echo "Rebuilding \"cores_list\" in ./$(INDEX)"
-	@cd cores/$(target_libc)/latest; \
+	@cd $(CORES_TARGET_DIR); \
 	rm -f $(WORKDIR)/$(INDEX); \
 	for f in *; do \
 		[ -f "$$f" ] && \
@@ -113,7 +114,7 @@ index-rebuild:
 	done
 
 release: dist-zip index
-	mv ./dist/$(PLATFORM)/* cores/$(target_libc)/latest/
+	mv ./dist/$(PLATFORM)/* $(CORES_TARGET_DIR)/
 
 help:
 	@echo "  make fetch|build|dist-zip|index|index-rebuild"

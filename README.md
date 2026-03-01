@@ -27,3 +27,13 @@ NOTES:
 ```
 make release
 ```
+
+## INDEX:
+
+- to manually rebuild .index file from host run:
+```
+make CORES_TARGET_DIR=<dirpath> INDEX=<filepath> index-rebuild
+```
+NOTES:
+- this method is ill-advised, since git fetching files by host's different UTC locale setup can change date stat(1)
+- using docker container can also ovewrite host's current date(1)
