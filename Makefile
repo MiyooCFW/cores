@@ -70,8 +70,8 @@ build: patch-super fetch
 dist-zip: default
 	@echo "Zip compress generated cores"
 	@cd ./dist/$(PLATFORM); \
-	for f in *.so; \
-		do [ -f "$$f" ] && \
+	for f in *.so; do \
+		[ -f "$$f" ] && \
 		zip -m "$$f.zip" "$$f"; \
 	done
 
@@ -80,29 +80,36 @@ index:
 		$(call print_error, The "dist/$(PLATFORM)" dir has no ZIP'ed cores -> run 'make dist-zip'); \
 		exit 1 ;\
 	fi
-	@echo "Update \"cores_list\" in .index-extended"
+	@echo "Updating \"cores_list\" in ./$(INDEX)"
+	@echo ""
 	@cd ./dist/$(PLATFORM); \
-	for f in *.zip; \
-		do [ -f "$$f" ] && \
-		echo "$$(stat -c '%y' $$f | cut -f 1 -d ' ') $$(crc32 $$f) $$f" | tee -a .core-updater-list; \
-	done
-	@cat ./dist/$(PLATFORM)/.core-updater-list >> $(INDEX)
-	@rm ./dist/$(PLATFORM)/.core-updater-list
-	@sort -r --key=1,1 --key=3,3 $(INDEX) -o $(INDEX); \
-	uniq --skip-fields=2 $(INDEX) /tmp/index.temp && \
-	mv /tmp/index.temp $(INDEX);
-	@sort -r --key=3,3 $(INDEX) -o $(INDEX); \
-	uniq --skip-fields=2 $(INDEX) /tmp/index.temp && \
-	mv /tmp/index.temp $(INDEX);
-	sort -k3,3 $(INDEX) -o $(INDEX)
+	new_index=false; \
+	for f in *.zip; do \
+		if grep -q "$$f" $(WORKDIR)/$(INDEX); then \
+			echo "Found existing core $$f pkg, updating index"; \
+			INDEX_FILE="$$(stat -c '%y' $$f | cut -f 1 -d ' ') $$(crc32 $$f) $$f"; \
+			sed -i "s:.*$$f.*:$$INDEX_FILE:" $(WORKDIR)/$(INDEX); \
+			echo $$INDEX_FILE; \
+			INDEX_FILE=""; \
+		else \
+			echo "Found new core $$f pkg, adding to index"; \
+			echo "$$(stat -c '%y' $$f | cut -f 1 -d ' ') $$(crc32 $$f) $$f" | tee -a $(WORKDIR)/$(INDEX); \
+			new_index=true; \
+		fi; \
+	done; \
+	echo ""; \
+	if $$new_index; then \
+		echo "Sorting idex file, with new cores."; \
+		sort -k3,3 $(WORKDIR)/$(INDEX) -o $(WORKDIR)/$(INDEX); \
+	fi
 
 index-rebuild:
-	@echo "Update \"cores_list\" in .index-extended"
+	@echo "Rebuilding \"cores_list\" in ./$(INDEX)"
 	@cd cores/$(target_libc)/latest; \
-	rm -f .index-extended; \
-	for f in *; \
-		do [ -f "$$f" ] && \
-		echo "$$(stat -c '%y' $$f | cut -f 1 -d ' ') $$(crc32 $$f) $$f" | tee -a .index-extended; \
+	rm -f $(WORKDIR)/$(INDEX); \
+	for f in *; do \
+		[ -f "$$f" ] && \
+		echo "$$(stat -c '%y' $$f | cut -f 1 -d ' ') $$(crc32 $$f) $$f" | tee -a $(WORKDIR)/$(INDEX); \
 	done
 
 release: dist-zip index
