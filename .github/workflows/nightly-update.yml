@@ -11,6 +11,8 @@ on:
 jobs:
   build-uclibc:
     name: Build Nightly libretro cores (musl)
+    # only run on the main repo; forks can pull changes from there
+    if: ${{ github.repository == 'MiyooCFW/cores' }}
     runs-on: ubuntu-22.04
     container:
       image: miyoocfw/toolchain-shared-musl
