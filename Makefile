@@ -7,7 +7,8 @@ SHELL := /bin/bash
 	@exit 1
 
 # General variables
-CORES ?= $(shell cat cores_list)
+CORES_FILE ?= "cores_list"
+CORES ?= $(shell cat $(CORES_FILE))
 BUILD_SUPER_DIR = libretro-super
 PATCH_SUPER_DIR = super
 PLATFORM ?= miyoo
