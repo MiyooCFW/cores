@@ -1,6 +1,17 @@
-arduous - fails to save revision
-tic80 - fails to save revision
-wasm4 - fails to save revision
-mgba - needs patch to enable -DLOCALE on musl
-ecwolf - broken submodule paths
-picodrive - use native gcc for CC files (fails to compile cyclongen)
+[present in cfw/buildbot]
+arduous, tic80, wasm4 -> fails to save revision
+mgba -> needs patch to enable -DLOCALE on musl
+ecwolf -> broken submodule paths
+picodrive -> use native gcc for CC files (fails to compile cyclongen)
+
+[present in buildbot (upstream)]:
+ardens, gam4980, -> fails to save revision
+squirreljme -> bad core's cp path in super (should be ./nanocoat/build/bin/squirreljme_libretro.so)
+anarch -> bad compiler used in cmake (probably we should define miyoo.cmake template in libretro-buld-common.sh OR libretro-buildbot-recipe.sh) 
+mu -> bad extension for cp cmd (output is ./libretroBuildSystem/mu_libretro.dll instead of *.so)
+
+[present in cfw (our fork)]:
+uae4all
+frodo
+fake08
+mednafen_supergrafx
