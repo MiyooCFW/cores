@@ -1,13 +1,17 @@
 2026-03-01 0c41182c 2048_libretro.so.zip
 2026-03-01 4350ab99 81_libretro.so.zip
 2026-03-01 680a5924 a5200_libretro.so.zip
+2026-03-03 0ac7b08c amiarcadia_libretro.so.zip
 2026-03-01 f0621ab4 atari800_libretro.so.zip
 2026-03-01 576e26a0 bk_libretro.so.zip
 2026-03-01 30a51f04 bluemsx_libretro.so.zip
 2026-03-01 aa605afb cannonball_libretro.so.zip
 2026-03-01 dae00d84 cap32_libretro.so.zip
 2026-03-01 9ad4e37c chailove_libretro.so.zip
+2026-03-03 b4292959 clownmdemu_libretro.so.zip
+2026-03-03 2fc5f670 dice_libretro.so.zip
 2026-03-01 6add886c dinothawr_libretro.so.zip
+2026-03-03 49d2d2ad dosbox_pure_libretro.so.zip
 2026-03-01 49bdf878 fceumm_libretro.so.zip
 2026-03-01 8669083b fmsx_libretro.so.zip
 2026-03-01 eabcae09 freechaf_libretro.so.zip
@@ -16,6 +20,8 @@
 2026-03-01 3dbaaef5 gambatte_libretro.so.zip
 2026-03-01 b0eef970 gearboy_libretro.so.zip
 2026-03-01 48bcdb12 gearcoleco_libretro.so.zip
+2026-03-03 27724edf geargrafx_libretro.so.zip
+2026-03-03 1eebc8c8 gearlynx_libretro.so.zip
 2026-03-01 b498db06 gearsystem_libretro.so.zip
 2026-03-01 e4696b78 genesis_plus_gx_libretro.so.zip
 2026-03-01 53e51c28 genesis_plus_gx_wide_libretro.so.zip
@@ -39,6 +45,7 @@
 2026-03-01 0935165a nxengine_libretro.so.zip
 2026-03-01 f2449ad3 o2em_libretro.so.zip
 2026-03-01 095387da pcsx_rearmed_libretro.so.zip
+2026-03-03 b42e0346 pd777_libretro.so.zip
 2026-03-01 8d25c841 pocketcdg_libretro.so.zip
 2026-03-01 21587a48 pokemini_libretro.so.zip
 2026-03-01 bf885174 potator_libretro.so.zip
@@ -49,10 +56,12 @@
 2026-03-01 734fd823 race_libretro.so.zip
 2026-03-01 59388247 reminiscence_libretro.so.zip
 2026-03-01 f92625bd retro8_libretro.so.zip
+2026-03-03 d9004cd0 scummvm_libretro.so.zip
 2026-03-01 70fb6552 smsplus_libretro.so.zip
 2026-03-01 b8b68896 snes9x2002_libretro.so.zip
 2026-03-01 8d35c0fa snes9x2005_libretro.so.zip
 2026-03-01 854b4532 stella2014_libretro.so.zip
+2026-03-03 d562b8fe tamalibretro_libretro.so.zip
 2026-03-01 642bcceb theodore_libretro.so.zip
 2026-03-01 ba14d458 tyrquake_libretro.so.zip
 2026-03-01 b8f70d29 uw8_libretro.so.zip
