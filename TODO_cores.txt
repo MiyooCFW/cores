@@ -8,10 +8,11 @@ picodrive -> use native gcc for CC files (fails to compile cyclongen)
 ardens, gam4980, -> fails to save revision
 squirreljme -> bad core's cp path in super (should be ./nanocoat/build/bin/squirreljme_libretro.so)
 anarch -> bad compiler used in cmake (probably we should define miyoo.cmake template in libretro-buld-common.sh OR libretro-buildbot-recipe.sh) 
-mu -> bad extension for cp cmd (output is ./libretroBuildSystem/mu_libretro.dll instead of *.so)
+mu -> add "miyoo" platform or parse "unix" (otherwise endup with default=windows)
 
 [present in cfw (our fork)]:
 uae4all
 frodo
 fake08
-mednafen_supergrafx
+mednafen_supergrafx - add "miyoo" platform or parse "unix" (otherwise endup with default=windows)
+dcastaway

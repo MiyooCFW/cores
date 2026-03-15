@@ -14,6 +14,14 @@ NOTES:
 - build logs can be found at `$TOPDIR/logs/`
 - to build specific core pass `CORES=<list cores>"` flag to make
 
+- fetch & build specific core (e.g. gpsp)
+```
+export CORES=gpsp
+make fetch
+make build
+```
+run `make help` for possible Makefile's rules
+
 ## Native TEST build (linux):
 
 - fetch & compile & build
