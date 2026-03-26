@@ -20,9 +20,9 @@
 2026-03-14 c3e17300 gambatte_libretro.so.zip
 2026-03-15 27a8469e gearboy_libretro.so.zip
 2026-03-15 dfcf8913 gearcoleco_libretro.so.zip
-2026-03-25 74a7c85f geargrafx_libretro.so.zip
-2026-03-25 925dccd1 gearlynx_libretro.so.zip
-2026-03-25 dde9424b gearsystem_libretro.so.zip
+2026-03-26 4875f522 geargrafx_libretro.so.zip
+2026-03-26 495020d0 gearlynx_libretro.so.zip
+2026-03-26 22b4ff28 gearsystem_libretro.so.zip
 2026-03-07 aaa96584 genesis_plus_gx_libretro.so.zip
 2026-03-01 53e51c28 genesis_plus_gx_wide_libretro.so.zip
 2026-03-01 091f0f2d gme_libretro.so.zip
@@ -65,7 +65,7 @@
 2026-03-01 642bcceb theodore_libretro.so.zip
 2026-03-01 ba14d458 tyrquake_libretro.so.zip
 2026-03-01 b8f70d29 uw8_libretro.so.zip
-2026-03-25 09857ddd vaporspec_libretro.so.zip
+2026-03-26 a332ff51 vaporspec_libretro.so.zip
 2026-03-01 7b4d131c vecx_libretro.so.zip
 2026-03-01 385e73c4 vemulator_libretro.so.zip
 2026-03-01 1a5d44c2 x1_libretro.so.zip
