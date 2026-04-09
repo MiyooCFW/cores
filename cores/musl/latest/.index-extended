@@ -36,7 +36,7 @@
 2026-03-31 175efb34 lutro_libretro.so.zip
 2026-03-31 de7624e5 mame2000_libretro.so.zip
 2026-04-03 ed320507 mame2003_libretro.so.zip
-2026-04-07 87eae365 mame2003_plus_libretro.so.zip
+2026-04-09 818f2c2d mame2003_plus_libretro.so.zip
 2026-04-04 ad93fb7d mednafen_pce_fast_libretro.so.zip
 2026-03-31 96fd933e mednafen_wswan_libretro.so.zip
 2026-03-31 a74a4a76 minivmac_libretro.so.zip
@@ -45,7 +45,7 @@
 2026-03-31 e333ed18 nxengine_libretro.so.zip
 2026-03-31 d2b71082 o2em_libretro.so.zip
 2026-04-03 fb83bbf6 pcsx_rearmed_libretro.so.zip
-2026-04-05 cb5d8107 pd777_libretro.so.zip
+2026-04-09 155e860b pd777_libretro.so.zip
 2026-03-01 8d25c841 pocketcdg_libretro.so.zip
 2026-03-31 316d86f2 pokemini_libretro.so.zip
 2026-03-31 6b4b49fe potator_libretro.so.zip
@@ -56,7 +56,7 @@
 2026-03-31 0bdbb9bf race_libretro.so.zip
 2026-03-31 f21039e4 reminiscence_libretro.so.zip
 2026-03-31 c286359d retro8_libretro.so.zip
-2026-04-07 43306494 scummvm_libretro.so.zip
+2026-04-09 491e3df3 scummvm_libretro.so.zip
 2026-03-31 8ca29b8e smsplus_libretro.so.zip
 2026-03-31 e92d1ea0 snes9x2002_libretro.so.zip
 2026-03-31 a0553a13 snes9x2005_libretro.so.zip
