@@ -18,11 +18,11 @@
 2026-03-31 ff839a07 freeintv_libretro.so.zip
 2026-03-31 a8b48e05 fuse_libretro.so.zip
 2026-04-12 39d12986 gambatte_libretro.so.zip
-2026-04-14 fb20a5b3 gearboy_libretro.so.zip
+2026-04-15 2893a841 gearboy_libretro.so.zip
 2026-03-31 4c61c307 gearcoleco_libretro.so.zip
-2026-04-13 90884726 geargrafx_libretro.so.zip
-2026-04-14 a79e4fdd gearlynx_libretro.so.zip
-2026-04-14 53fb84d6 gearsystem_libretro.so.zip
+2026-04-15 240ac95d geargrafx_libretro.so.zip
+2026-04-15 627f86a4 gearlynx_libretro.so.zip
+2026-04-15 93647683 gearsystem_libretro.so.zip
 2026-04-04 cd645658 genesis_plus_gx_libretro.so.zip
 2026-03-31 956d5661 genesis_plus_gx_wide_libretro.so.zip
 2026-04-10 2c3b65da gme_libretro.so.zip
@@ -36,7 +36,7 @@
 2026-04-12 31755cd9 lutro_libretro.so.zip
 2026-03-31 de7624e5 mame2000_libretro.so.zip
 2026-04-03 ed320507 mame2003_libretro.so.zip
-2026-04-09 818f2c2d mame2003_plus_libretro.so.zip
+2026-04-15 7edb93a7 mame2003_plus_libretro.so.zip
 2026-04-04 ad93fb7d mednafen_pce_fast_libretro.so.zip
 2026-03-31 96fd933e mednafen_wswan_libretro.so.zip
 2026-03-31 a74a4a76 minivmac_libretro.so.zip
@@ -44,7 +44,7 @@
 2026-04-03 9e7ac911 numero_libretro.so.zip
 2026-04-10 4b291fff nxengine_libretro.so.zip
 2026-03-31 d2b71082 o2em_libretro.so.zip
-2026-04-12 42a06d4b pcsx_rearmed_libretro.so.zip
+2026-04-15 6da4ee5d pcsx_rearmed_libretro.so.zip
 2026-04-09 155e860b pd777_libretro.so.zip
 2026-04-10 eee5d515 pocketcdg_libretro.so.zip
 2026-03-31 316d86f2 pokemini_libretro.so.zip
