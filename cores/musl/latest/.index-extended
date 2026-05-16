@@ -17,13 +17,13 @@
 2026-04-21 d8962799 freechaf_libretro.so.zip
 2026-04-21 6ff57102 freeintv_libretro.so.zip
 2026-04-21 a922c614 fuse_libretro.so.zip
-2026-05-13 c7143a40 gambatte_libretro.so.zip
-2026-05-15 a690a7ab gearboy_libretro.so.zip
-2026-05-15 1e2f342a gearcoleco_libretro.so.zip
-2026-05-15 76ea64ed geargrafx_libretro.so.zip
-2026-05-15 fa1b98d2 gearlynx_libretro.so.zip
-2026-05-15 fc23b815 gearsystem_libretro.so.zip
-2026-05-09 f96ed1ca genesis_plus_gx_libretro.so.zip
+2026-05-16 c500c235 gambatte_libretro.so.zip
+2026-05-16 328eac3e gearboy_libretro.so.zip
+2026-05-16 dd82db35 gearcoleco_libretro.so.zip
+2026-05-16 87b636d1 geargrafx_libretro.so.zip
+2026-05-16 77168e0f gearlynx_libretro.so.zip
+2026-05-16 e9a41bf6 gearsystem_libretro.so.zip
+2026-05-16 506da309 genesis_plus_gx_libretro.so.zip
 2026-04-21 bb51ac0f genesis_plus_gx_wide_libretro.so.zip
 2026-04-21 e60ee7ed gme_libretro.so.zip
 2026-04-21 2f8ca360 gong_libretro.so.zip
@@ -37,7 +37,7 @@
 2026-03-31 de7624e5 mame2000_libretro.so.zip
 2026-04-03 ed320507 mame2003_libretro.so.zip
 2026-05-15 347cc0a1 mame2003_plus_libretro.so.zip
-2026-05-09 d09abbd2 mednafen_pce_fast_libretro.so.zip
+2026-05-16 2a848c57 mednafen_pce_fast_libretro.so.zip
 2026-04-21 1a251324 mednafen_wswan_libretro.so.zip
 2026-04-21 ccad96ed minivmac_libretro.so.zip
 2026-04-21 e21868aa mrboom_libretro.so.zip
@@ -45,7 +45,7 @@
 2026-04-10 4b291fff nxengine_libretro.so.zip
 2026-04-21 8d390bd0 o2em_libretro.so.zip
 2026-05-15 06353ab5 pcsx_rearmed_libretro.so.zip
-2026-05-09 ce5d6fc5 pd777_libretro.so.zip
+2026-05-16 1f76c990 pd777_libretro.so.zip
 2026-04-21 dad8ea13 pocketcdg_libretro.so.zip
 2026-04-21 5fb4ec9e pokemini_libretro.so.zip
 2026-04-21 73e54e8d potator_libretro.so.zip
@@ -63,7 +63,7 @@
 2026-04-12 ed64bb45 stella2014_libretro.so.zip
 2026-04-05 b7e85012 tamalibretro_libretro.so.zip
 2026-04-04 df3ac19d theodore_libretro.so.zip
-2026-05-04 c3abf5b5 tyrquake_libretro.so.zip
+2026-05-16 330e2d9c tyrquake_libretro.so.zip
 2026-04-21 c026562d uw8_libretro.so.zip
 2026-05-02 24cbc246 vaporspec_libretro.so.zip
 2026-04-12 5102b815 vecx_libretro.so.zip
