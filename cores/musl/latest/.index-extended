@@ -4,7 +4,7 @@
 2026-04-23 ef823280 amiarcadia_libretro.so.zip
 2026-05-12 164594c4 atari800_libretro.so.zip
 2026-04-21 c27befa3 bk_libretro.so.zip
-2026-04-12 d994ad41 bluemsx_libretro.so.zip
+2026-05-19 c55bf726 bluemsx_libretro.so.zip
 2026-04-21 1921c440 cannonball_libretro.so.zip
 2026-04-06 5a160fe1 cap32_libretro.so.zip
 2026-04-20 57200469 chailove_libretro.so.zip
@@ -18,11 +18,11 @@
 2026-04-21 6ff57102 freeintv_libretro.so.zip
 2026-04-21 a922c614 fuse_libretro.so.zip
 2026-05-16 c500c235 gambatte_libretro.so.zip
-2026-05-18 42fd98cf gearboy_libretro.so.zip
-2026-05-18 bf4947c1 gearcoleco_libretro.so.zip
-2026-05-18 3af420c6 geargrafx_libretro.so.zip
-2026-05-18 94a3c351 gearlynx_libretro.so.zip
-2026-05-18 76e5bbae gearsystem_libretro.so.zip
+2026-05-19 3f33a499 gearboy_libretro.so.zip
+2026-05-19 e697c2e5 gearcoleco_libretro.so.zip
+2026-05-19 2572335f geargrafx_libretro.so.zip
+2026-05-19 a7e67140 gearlynx_libretro.so.zip
+2026-05-19 c45c4604 gearsystem_libretro.so.zip
 2026-05-16 506da309 genesis_plus_gx_libretro.so.zip
 2026-04-21 bb51ac0f genesis_plus_gx_wide_libretro.so.zip
 2026-04-21 e60ee7ed gme_libretro.so.zip
@@ -36,7 +36,7 @@
 2026-04-12 31755cd9 lutro_libretro.so.zip
 2026-03-31 de7624e5 mame2000_libretro.so.zip
 2026-04-03 ed320507 mame2003_libretro.so.zip
-2026-05-15 347cc0a1 mame2003_plus_libretro.so.zip
+2026-05-19 5db5b2aa mame2003_plus_libretro.so.zip
 2026-05-16 2a848c57 mednafen_pce_fast_libretro.so.zip
 2026-04-21 1a251324 mednafen_wswan_libretro.so.zip
 2026-04-21 ccad96ed minivmac_libretro.so.zip
@@ -63,7 +63,7 @@
 2026-04-12 ed64bb45 stella2014_libretro.so.zip
 2026-04-05 b7e85012 tamalibretro_libretro.so.zip
 2026-04-04 df3ac19d theodore_libretro.so.zip
-2026-05-18 deb0b827 tyrquake_libretro.so.zip
+2026-05-19 01ab6c55 tyrquake_libretro.so.zip
 2026-04-21 c026562d uw8_libretro.so.zip
 2026-05-02 24cbc246 vaporspec_libretro.so.zip
 2026-04-12 5102b815 vecx_libretro.so.zip
