@@ -1,6 +1,6 @@
 2026-04-11 bbfe22a9 2048_libretro.so.zip
 2026-04-21 751343ca 81_libretro.so.zip
-2026-04-21 101cadec a5200_libretro.so.zip
+2026-06-04 b7f13ee1 a5200_libretro.so.zip
 2026-04-23 ef823280 amiarcadia_libretro.so.zip
 2026-05-28 19c34622 atari800_libretro.so.zip
 2026-04-21 c27befa3 bk_libretro.so.zip
@@ -27,7 +27,7 @@
 2026-04-21 bb51ac0f genesis_plus_gx_wide_libretro.so.zip
 2026-04-21 e60ee7ed gme_libretro.so.zip
 2026-04-21 2f8ca360 gong_libretro.so.zip
-2026-05-13 1c8957d5 gpsp_libretro.so.zip
+2026-06-04 4fb7f0f7 gpsp_libretro.so.zip
 2026-04-21 450f9092 gw_libretro.so.zip
 2026-04-21 602b227d handy_libretro.so.zip
 2026-04-03 b01257ff jaxe_libretro.so.zip
@@ -48,9 +48,9 @@
 2026-05-16 1f76c990 pd777_libretro.so.zip
 2026-04-21 dad8ea13 pocketcdg_libretro.so.zip
 2026-04-21 5fb4ec9e pokemini_libretro.so.zip
-2026-04-21 73e54e8d potator_libretro.so.zip
-2026-06-03 22d718a8 prboom_libretro.so.zip
-2026-04-21 9ed9072a prosystem_libretro.so.zip
+2026-06-04 64b0f359 potator_libretro.so.zip
+2026-06-04 2d30db6d prboom_libretro.so.zip
+2026-06-04 f3679c3c prosystem_libretro.so.zip
 2026-04-21 58ef2e97 quasi88_libretro.so.zip
 2026-05-12 3353983f quicknes_libretro.so.zip
 2026-04-21 4ddba52c race_libretro.so.zip
