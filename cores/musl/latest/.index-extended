@@ -2,7 +2,7 @@
 2026-04-21 751343ca 81_libretro.so.zip
 2026-06-04 b7f13ee1 a5200_libretro.so.zip
 2026-07-03 474d3327 amiarcadia_libretro.so.zip
-2026-07-13 5dd639e3 atari800_libretro.so.zip
+2026-07-15 a635c27d atari800_libretro.so.zip
 2026-04-21 c27befa3 bk_libretro.so.zip
 2026-07-05 089d9818 bluemsx_libretro.so.zip
 2026-04-21 1921c440 cannonball_libretro.so.zip
@@ -11,8 +11,8 @@
 2026-06-08 210e74dd clownmdemu_libretro.so.zip
 2026-07-10 91c765eb dice_libretro.so.zip
 2026-06-30 91473064 dinothawr_libretro.so.zip
-2026-04-21 f0e5890f dosbox_pure_libretro.so.zip
-2026-07-07 2e725c57 fceumm_libretro.so.zip
+2026-07-15 f5858ed5 dosbox_pure_libretro.so.zip
+2026-07-15 d54e1cf9 fceumm_libretro.so.zip
 2026-06-05 57091e35 fmsx_libretro.so.zip
 2026-04-21 d8962799 freechaf_libretro.so.zip
 2026-04-21 6ff57102 freeintv_libretro.so.zip
