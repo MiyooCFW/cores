@@ -5,14 +5,14 @@
 2026-07-15 a635c27d atari800_libretro.so.zip
 2026-04-21 c27befa3 bk_libretro.so.zip
 2026-07-19 93750be0 bluemsx_libretro.so.zip
-2026-04-21 1921c440 cannonball_libretro.so.zip
+2026-07-20 15471990 cannonball_libretro.so.zip
 2026-04-06 5a160fe1 cap32_libretro.so.zip
 2026-04-20 57200469 chailove_libretro.so.zip
 2026-06-08 210e74dd clownmdemu_libretro.so.zip
 2026-07-10 91c765eb dice_libretro.so.zip
 2026-06-30 91473064 dinothawr_libretro.so.zip
 2026-07-15 f5858ed5 dosbox_pure_libretro.so.zip
-2026-07-17 02250b49 fceumm_libretro.so.zip
+2026-07-20 508cec2f fceumm_libretro.so.zip
 2026-06-05 57091e35 fmsx_libretro.so.zip
 2026-04-21 d8962799 freechaf_libretro.so.zip
 2026-04-21 6ff57102 freeintv_libretro.so.zip
@@ -36,7 +36,7 @@
 2026-07-11 1028b554 lutro_libretro.so.zip
 2026-06-16 3586e303 mame2000_libretro.so.zip
 2026-06-16 c22dfa34 mame2003_libretro.so.zip
-2026-06-12 4ba81750 mame2003_plus_libretro.so.zip
+2026-07-20 6f6e792c mame2003_plus_libretro.so.zip
 2026-07-18 d2736978 mednafen_pce_fast_libretro.so.zip
 2026-04-21 1a251324 mednafen_wswan_libretro.so.zip
 2026-04-21 ccad96ed minivmac_libretro.so.zip
