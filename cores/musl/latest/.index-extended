@@ -25,7 +25,7 @@
 2026-07-21 83ae35b5 gearsystem_libretro.so.zip
 2026-07-11 9242f513 genesis_plus_gx_libretro.so.zip
 2026-07-02 8c858a92 genesis_plus_gx_wide_libretro.so.zip
-2026-04-21 e60ee7ed gme_libretro.so.zip
+2026-07-23 56c5cfba gme_libretro.so.zip
 2026-04-21 2f8ca360 gong_libretro.so.zip
 2026-07-22 ee6c1dc3 gpsp_libretro.so.zip
 2026-04-21 450f9092 gw_libretro.so.zip
@@ -41,7 +41,7 @@
 2026-04-21 1a251324 mednafen_wswan_libretro.so.zip
 2026-04-21 ccad96ed minivmac_libretro.so.zip
 2026-06-26 cdfaac2c mrboom_libretro.so.zip
-2026-04-03 9e7ac911 numero_libretro.so.zip
+2026-07-23 f78890dc numero_libretro.so.zip
 2026-04-10 4b291fff nxengine_libretro.so.zip
 2026-07-22 ae28836a o2em_libretro.so.zip
 2026-06-28 c8abd9ec pcsx_rearmed_libretro.so.zip
@@ -51,7 +51,7 @@
 2026-06-04 64b0f359 potator_libretro.so.zip
 2026-07-22 264df334 prboom_libretro.so.zip
 2026-06-04 f3679c3c prosystem_libretro.so.zip
-2026-04-21 58ef2e97 quasi88_libretro.so.zip
+2026-07-23 299d13c8 quasi88_libretro.so.zip
 2026-07-07 eec5caa5 quicknes_libretro.so.zip
 2026-06-30 73c74cd0 race_libretro.so.zip
 2026-07-22 3f80134f reminiscence_libretro.so.zip
@@ -59,7 +59,7 @@
 2026-05-05 972c42a5 scummvm_libretro.so.zip
 2026-06-26 a00fb62d smsplus_libretro.so.zip
 2026-06-26 e073e631 snes9x2002_libretro.so.zip
-2026-04-21 04c367cd snes9x2005_libretro.so.zip
+2026-07-23 30a59179 snes9x2005_libretro.so.zip
 2026-07-07 ad3d04b3 stella2014_libretro.so.zip
 2026-04-05 b7e85012 tamalibretro_libretro.so.zip
 2026-04-04 df3ac19d theodore_libretro.so.zip
