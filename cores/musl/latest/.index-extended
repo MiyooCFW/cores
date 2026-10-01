@@ -18,11 +18,11 @@
 2026-08-13 91b80bc9 freeintv_libretro.so.zip
 2026-09-26 a59b3358 fuse_libretro.so.zip
 2026-08-22 dd855f64 gambatte_libretro.so.zip
-2026-09-29 f55ca194 gearboy_libretro.so.zip
-2026-09-29 4403f0da gearcoleco_libretro.so.zip
-2026-09-29 99d20cbb geargrafx_libretro.so.zip
-2026-09-29 f10535e1 gearlynx_libretro.so.zip
-2026-09-29 1ec9c650 gearsystem_libretro.so.zip
+2026-10-01 3bff76b9 gearboy_libretro.so.zip
+2026-10-01 c3e3f507 gearcoleco_libretro.so.zip
+2026-10-01 fbc09bae geargrafx_libretro.so.zip
+2026-10-01 95f6ea56 gearlynx_libretro.so.zip
+2026-10-01 6de22eb3 gearsystem_libretro.so.zip
 2026-09-12 8f9ba3d5 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
@@ -32,7 +32,7 @@
 2026-04-21 602b227d handy_libretro.so.zip
 2026-07-25 1c34a61e jaxe_libretro.so.zip
 2026-07-27 d6d3dbb6 jumpnbump_libretro.so.zip
-2026-04-01 3c2c0b2f lowresnx_libretro.so.zip
+2026-10-01 6b0ce8ae lowresnx_libretro.so.zip
 2026-08-18 3f61588c lutro_libretro.so.zip
 2026-09-02 51b6fc34 mame2000_libretro.so.zip
 2026-09-26 2f1da91a mame2003_libretro.so.zip
