@@ -6,7 +6,7 @@
 2026-09-05 654edfb7 bk_libretro.so.zip
 2026-08-24 15c1fa2c bluemsx_libretro.so.zip
 2026-08-04 e1edfb93 cannonball_libretro.so.zip
-2026-09-30 b53ba9a1 cap32_libretro.so.zip
+2026-10-05 a887fa17 cap32_libretro.so.zip
 2026-10-04 b0e86882 chailove_libretro.so.zip
 2026-10-03 d1f762a3 clownmdemu_libretro.so.zip
 2026-10-02 289daf6f dice_libretro.so.zip
@@ -18,11 +18,11 @@
 2026-08-13 91b80bc9 freeintv_libretro.so.zip
 2026-09-26 a59b3358 fuse_libretro.so.zip
 2026-08-22 dd855f64 gambatte_libretro.so.zip
-2026-10-04 4217254f gearboy_libretro.so.zip
-2026-10-04 05c0a5bc gearcoleco_libretro.so.zip
-2026-10-04 ccdb6f64 geargrafx_libretro.so.zip
-2026-10-04 30aa9f83 gearlynx_libretro.so.zip
-2026-10-04 7def938a gearsystem_libretro.so.zip
+2026-10-05 96873946 gearboy_libretro.so.zip
+2026-10-05 a6d5e076 gearcoleco_libretro.so.zip
+2026-10-05 9d2f9786 geargrafx_libretro.so.zip
+2026-10-05 5b9d0d52 gearlynx_libretro.so.zip
+2026-10-05 817edaed gearsystem_libretro.so.zip
 2026-10-03 3860cc36 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
@@ -49,7 +49,7 @@
 2026-08-24 1f4cf748 pocketcdg_libretro.so.zip
 2026-08-01 d3890262 pokemini_libretro.so.zip
 2026-06-04 64b0f359 potator_libretro.so.zip
-2026-10-04 198c1f08 prboom_libretro.so.zip
+2026-10-05 6f859c70 prboom_libretro.so.zip
 2026-08-23 cd580fbc prosystem_libretro.so.zip
 2026-09-26 bc5a8a08 quasi88_libretro.so.zip
 2026-07-07 eec5caa5 quicknes_libretro.so.zip
