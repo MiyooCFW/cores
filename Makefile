@@ -12,8 +12,7 @@ CORES ?= $(shell cat $(CORES_FILE))
 BUILD_SUPER_DIR = libretro-super
 PATCH_SUPER_DIR = super
 PLATFORM ?= miyoo
-SKIP_UNCHANGED ?= "" #ifdef will skip builds with the same git revisions
-BUILD_REVISIONS_DIR ?= cores/$(target_libc)/build-revisions-latest #dir for build_save_revision
+SKIP_UNCHANGED ?= "" #if 1 will skip builds with the same git revisions and generate build_save_revision tag file
 WORKDIR= $(shell realpath .)
 
 # Compiler variables
@@ -35,6 +34,7 @@ else
 target_libc=.
 endif
 
+BUILD_REVISIONS_DIR ?= cores/$(target_libc)/build-revisions-latest #dir for build_save_revision
 CORES_TARGET_DIR ?= cores/$(target_libc)/latest
 INDEX ?= $(CORES_TARGET_DIR)/.index-extended
 
@@ -118,7 +118,7 @@ release: dist-zip index
 	mv ./dist/$(PLATFORM)/* $(CORES_TARGET_DIR)/
 
 help:
-	@echo "  make fetch|build|dist-zip|index|index-rebuild"
+	@echo "  make fetch|build|dist-zip|index|index-rebuild|release"
 
 clean:
 	rm -rf libretro-!(super)
