@@ -1,13 +1,14 @@
-[present in cfw/buildbot]
+[present in cfw & buildbot]
 arduous, tic80, wasm4 -> fails to save revision
 mgba -> needs patch to enable -DLOCALE on musl
 picodrive -> use native gcc for CC files (fails to compile cyclongen)
 
 [present in buildbot (upstream)]:
-ardens, gam4980, -> fails to save revision
+ardens, gam4980, mojozork -> fails to save revision file
 squirreljme -> bad core's cp path in super (should be ./nanocoat/build/bin/squirreljme_libretro.so)
 anarch -> bad compiler used in cmake (probably we should define miyoo.cmake template in libretro-buld-common.sh OR libretro-buildbot-recipe.sh) 
 mu -> add "miyoo" platform or parse "unix" (otherwise endup with default=windows)
+mcsoftserve -> no rules in libretro-fetch and build (missing in upstream)
 
 [present in cfw (our fork)]:
 uae4all
