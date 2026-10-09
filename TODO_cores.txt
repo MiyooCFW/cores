@@ -1,7 +1,6 @@
 [present in cfw/buildbot]
 arduous, tic80, wasm4 -> fails to save revision
 mgba -> needs patch to enable -DLOCALE on musl
-ecwolf -> broken submodule paths
 picodrive -> use native gcc for CC files (fails to compile cyclongen)
 
 [present in buildbot (upstream)]:
@@ -14,5 +13,4 @@ mu -> add "miyoo" platform or parse "unix" (otherwise endup with default=windows
 uae4all
 frodo
 fake08
-mednafen_supergrafx - add "miyoo" platform or parse "unix" (otherwise endup with default=windows)
 dcastaway
