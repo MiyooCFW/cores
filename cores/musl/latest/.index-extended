@@ -10,7 +10,7 @@
 2026-10-22 1c6c15f9 cap32_libretro.so.zip
 2026-10-04 b0e86882 chailove_libretro.so.zip
 2026-10-03 d1f762a3 clownmdemu_libretro.so.zip
-2026-10-19 9f21cd63 dice_libretro.so.zip
+2026-10-23 95b92b6c dice_libretro.so.zip
 2026-09-03 15cd25b0 dinothawr_libretro.so.zip
 2026-10-07 b354fae9 dosbox_pure_libretro.so.zip
 2026-10-10 6d0e2719 ecwolf_libretro.so.zip
@@ -19,12 +19,12 @@
 2026-04-21 d8962799 freechaf_libretro.so.zip
 2026-08-13 91b80bc9 freeintv_libretro.so.zip
 2026-09-26 a59b3358 fuse_libretro.so.zip
-2026-08-22 dd855f64 gambatte_libretro.so.zip
-2026-10-21 dadef540 gearboy_libretro.so.zip
-2026-10-21 2d25f4ed gearcoleco_libretro.so.zip
-2026-10-21 bb700db9 geargrafx_libretro.so.zip
-2026-10-21 456eb9d3 gearlynx_libretro.so.zip
-2026-10-21 3ec9017f gearsystem_libretro.so.zip
+2026-10-23 ddd7f4bf gambatte_libretro.so.zip
+2026-10-23 0f64aeda gearboy_libretro.so.zip
+2026-10-23 95033b5d gearcoleco_libretro.so.zip
+2026-10-23 4effe6aa geargrafx_libretro.so.zip
+2026-10-23 fa978fe7 gearlynx_libretro.so.zip
+2026-10-23 ca1e98d4 gearsystem_libretro.so.zip
 2026-10-17 b07b6e10 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
@@ -38,8 +38,8 @@
 2026-08-18 3f61588c lutro_libretro.so.zip
 2026-09-02 51b6fc34 mame2000_libretro.so.zip
 2026-09-26 2f1da91a mame2003_libretro.so.zip
-2026-10-22 1e6c79cf mame2003_plus_libretro.so.zip
-2026-10-02 8721f66d mednafen_pce_fast_libretro.so.zip
+2026-10-23 f5d02582 mame2003_plus_libretro.so.zip
+2026-10-23 3c353030 mednafen_pce_fast_libretro.so.zip
 2026-10-10 433ffb91 mednafen_supergrafx_libretro.so.zip
 2026-08-01 685d2c9f mednafen_wswan_libretro.so.zip
 2026-04-21 ccad96ed minivmac_libretro.so.zip
@@ -59,7 +59,7 @@
 2026-06-30 73c74cd0 race_libretro.so.zip
 2026-07-22 3f80134f reminiscence_libretro.so.zip
 2026-04-21 307cbcc1 retro8_libretro.so.zip
-2026-10-22 18312c8b scummvm_libretro.so.zip
+2026-10-23 39ab450e scummvm_libretro.so.zip
 2026-09-05 6d908c8d smsplus_libretro.so.zip
 2026-09-22 81d2aace snes9x2002_libretro.so.zip
 2026-09-26 f23a6097 snes9x2005_libretro.so.zip
