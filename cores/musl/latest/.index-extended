@@ -9,7 +9,7 @@
 2026-08-04 e1edfb93 cannonball_libretro.so.zip
 2026-10-31 6f160b8f cap32_libretro.so.zip
 2026-11-08 a86c9e31 chailove_libretro.so.zip
-2026-10-03 d1f762a3 clownmdemu_libretro.so.zip
+2026-11-10 61974a73 clownmdemu_libretro.so.zip
 2026-10-30 de9b2dc4 dice_libretro.so.zip
 2026-09-03 15cd25b0 dinothawr_libretro.so.zip
 2026-11-06 beabffd8 dosbox_pure_libretro.so.zip
@@ -25,7 +25,7 @@
 2026-11-07 c0692550 geargrafx_libretro.so.zip
 2026-11-05 f3250994 gearlynx_libretro.so.zip
 2026-11-07 197fecb7 gearsystem_libretro.so.zip
-2026-11-09 058fc3af genesis_plus_gx_libretro.so.zip
+2026-11-10 4d083a88 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
 2026-08-24 ceddd2c2 gong_libretro.so.zip
@@ -38,7 +38,7 @@
 2026-08-18 3f61588c lutro_libretro.so.zip
 2026-09-02 51b6fc34 mame2000_libretro.so.zip
 2026-09-26 2f1da91a mame2003_libretro.so.zip
-2026-11-09 0221c90c mame2003_plus_libretro.so.zip
+2026-11-10 b14a8427 mame2003_plus_libretro.so.zip
 2026-10-30 4e11536f mednafen_pce_fast_libretro.so.zip
 2026-10-10 433ffb91 mednafen_supergrafx_libretro.so.zip
 2026-08-01 685d2c9f mednafen_wswan_libretro.so.zip
