@@ -20,11 +20,11 @@
 2026-08-13 91b80bc9 freeintv_libretro.so.zip
 2026-09-26 a59b3358 fuse_libretro.so.zip
 2026-10-30 4d1f014e gambatte_libretro.so.zip
-2026-11-13 24fb52bf gearboy_libretro.so.zip
-2026-11-13 66627677 gearcoleco_libretro.so.zip
-2026-11-13 dd2308ff geargrafx_libretro.so.zip
-2026-11-13 21db3e8a gearlynx_libretro.so.zip
-2026-11-13 dba8bb1a gearsystem_libretro.so.zip
+2026-11-14 be7227fc gearboy_libretro.so.zip
+2026-11-14 4341fd86 gearcoleco_libretro.so.zip
+2026-11-14 65a12460 geargrafx_libretro.so.zip
+2026-11-14 0e2ddb6d gearlynx_libretro.so.zip
+2026-11-14 1dd600de gearsystem_libretro.so.zip
 2026-11-10 4d083a88 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
