@@ -37,8 +37,8 @@
 2026-10-01 6b0ce8ae lowresnx_libretro.so.zip
 2026-08-18 3f61588c lutro_libretro.so.zip
 2026-09-02 51b6fc34 mame2000_libretro.so.zip
-2026-09-26 2f1da91a mame2003_libretro.so.zip
-2026-11-15 ffb1fd3c mame2003_plus_libretro.so.zip
+2026-11-17 f1e44b95 mame2003_libretro.so.zip
+2026-11-17 2ebf56f6 mame2003_plus_libretro.so.zip
 2026-10-30 4e11536f mednafen_pce_fast_libretro.so.zip
 2026-10-10 433ffb91 mednafen_supergrafx_libretro.so.zip
 2026-08-01 685d2c9f mednafen_wswan_libretro.so.zip
@@ -52,7 +52,7 @@
 2026-08-24 1f4cf748 pocketcdg_libretro.so.zip
 2026-08-01 d3890262 pokemini_libretro.so.zip
 2026-06-04 64b0f359 potator_libretro.so.zip
-2026-10-18 a328a63e prboom_libretro.so.zip
+2026-11-17 374f60a0 prboom_libretro.so.zip
 2026-08-23 cd580fbc prosystem_libretro.so.zip
 2026-10-06 64447a9b quasi88_libretro.so.zip
 2026-07-07 eec5caa5 quicknes_libretro.so.zip
