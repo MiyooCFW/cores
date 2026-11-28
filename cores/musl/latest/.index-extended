@@ -2,7 +2,7 @@
 2026-04-21 751343ca 81_libretro.so.zip
 2026-08-02 6b18c695 a5200_libretro.so.zip
 2026-07-25 d78ba54a amiarcadia_libretro.so.zip
-2026-09-02 f675a9a4 atari800_libretro.so.zip
+2026-11-28 ad7134ee atari800_libretro.so.zip
 2026-09-05 654edfb7 bk_libretro.so.zip
 2026-11-26 6c677505 blastem_libretro.so.zip
 2026-11-25 dad42b39 bluemsx_libretro.so.zip
@@ -17,14 +17,14 @@
 2026-11-22 5a3272b8 fceumm_libretro.so.zip
 2026-09-26 aeb95815 fmsx_libretro.so.zip
 2026-04-21 d8962799 freechaf_libretro.so.zip
-2026-08-13 91b80bc9 freeintv_libretro.so.zip
+2026-11-28 e24f131b freeintv_libretro.so.zip
 2026-09-26 a59b3358 fuse_libretro.so.zip
 2026-11-27 2f8d5055 gambatte_libretro.so.zip
-2026-11-25 396c16b7 gearboy_libretro.so.zip
-2026-11-27 629b2a0d gearcoleco_libretro.so.zip
-2026-11-24 c84b5901 geargrafx_libretro.so.zip
-2026-11-24 776f9e4b gearlynx_libretro.so.zip
-2026-11-24 bc29d33f gearsystem_libretro.so.zip
+2026-11-28 8620c7f5 gearboy_libretro.so.zip
+2026-11-28 31e94971 gearcoleco_libretro.so.zip
+2026-11-28 84246ce8 geargrafx_libretro.so.zip
+2026-11-28 195a6402 gearlynx_libretro.so.zip
+2026-11-28 f5181ae0 gearsystem_libretro.so.zip
 2026-11-25 2d073ba4 genesis_plus_gx_libretro.so.zip
 2026-07-28 dcdb129a genesis_plus_gx_wide_libretro.so.zip
 2026-07-23 56c5cfba gme_libretro.so.zip
@@ -38,7 +38,7 @@
 2026-08-18 3f61588c lutro_libretro.so.zip
 2026-09-02 51b6fc34 mame2000_libretro.so.zip
 2026-11-23 af0ca985 mame2003_libretro.so.zip
-2026-11-27 26c4bc73 mame2003_plus_libretro.so.zip
+2026-11-28 505eedd3 mame2003_plus_libretro.so.zip
 2026-11-27 3c48d999 mednafen_pce_fast_libretro.so.zip
 2026-10-10 433ffb91 mednafen_supergrafx_libretro.so.zip
 2026-08-01 685d2c9f mednafen_wswan_libretro.so.zip
@@ -47,7 +47,7 @@
 2026-07-23 f78890dc numero_libretro.so.zip
 2026-08-23 8117f5eb nxengine_libretro.so.zip
 2026-07-22 ae28836a o2em_libretro.so.zip
-2026-11-27 f93ca998 pcsx_rearmed_libretro.so.zip
+2026-11-28 fe945ceb pcsx_rearmed_libretro.so.zip
 2026-10-31 c35e40c9 pd777_libretro.so.zip
 2026-08-24 1f4cf748 pocketcdg_libretro.so.zip
 2026-08-01 d3890262 pokemini_libretro.so.zip
